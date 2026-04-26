@@ -3,6 +3,17 @@
 ## Overview
 This project analyzes ride-sharing data for Zuber, a new ride-sharing company launching in Chicago.
 
+## Project Visuals
+
+### Top Drop-off Neighborhoods
+![Top Neighborhoods](./top-neighborhoods.png)
+
+### Ride Volume by Company
+![Company Rides](./company-rides.png)
+
+### Hypothesis Testing Result
+![Hypothesis Test](./hypothesis-test.png)
+
 ## Business Problem
 The goal was to understand passenger behavior, competitor activity, popular drop-off locations, and how weather affects ride duration.
 
