@@ -44,3 +44,13 @@ These insights can help a ride-sharing company better understand demand patterns
 - Incorporate more granular time-based analysis  
 - Explore additional external factors affecting demand  
 - Build predictive models for ride demand  
+
+## How to Run
+1. Clone the repository:
+   git clone https://github.com/loran83/ride-sharing-analysis.git
+
+2. Install dependencies:
+   pip install pandas matplotlib seaborn
+
+3. Open the notebook:
+   ride_sharing_analysis.ipynb
