@@ -40,3 +40,7 @@ The goal was to understand passenger behavior, competitor activity, popular drop
 ## Business Impact
 These insights can help a ride-sharing company better understand demand patterns, improve driver positioning, and plan for weather-related delays.
 
+## Future Improvements
+- Incorporate more granular time-based analysis  
+- Explore additional external factors affecting demand  
+- Build predictive models for ride demand  
